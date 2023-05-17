@@ -1,0 +1,37 @@
+Functional Requirements
+1.User  Registration and Login
+Users should be able to register by account to system by giving their details.
+Users should be able to log in  their accounts using their user id and passward
+
+2. Project managers.
+Project managers should be able to create new projects.
+project managers should be able to see project details such as  title, description, start date, end date, and priority of projects.
+Project managers should be able to assign team members to  projects
+Project managers should be able to track project progress and update status
+
+3.Task Managemennt
+Project managers should be able to create tasks within projects and assign them to team of project
+Team members should be able to view their  tasks and update their status.
+Document Sharing
+Users should be able to upload and share project-related documents and files.
+
+4. Communication with team members
+Users should be able to communicate with team members through messages, 
+Notifications and email alerts should be sent for important updates.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
